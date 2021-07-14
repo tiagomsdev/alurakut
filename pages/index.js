@@ -18,7 +18,7 @@ function ProfileSideBar(prop){
 }
 
 export default function Home() {
-  const user = 'peas';
+  const user = 'tiagomsdev';
   const pessoasFavoritas = ['juunegreiros','omariosouto','peas','rafaballerini','marcobrunodev','felipefialho']
 
   return (
